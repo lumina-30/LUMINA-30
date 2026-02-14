@@ -1,5 +1,7 @@
 # LUMINA-30
 
+This repository examines human decision authority, refusal rights, and institutional accountability boundaries in advanced AI systems.
+
 Keywords: AI governance, AI accountability, singularity risk, refusal authority, irreversible decision risk, post-incident review, institutional responsibility.
 
 ## Safety Statement
