@@ -139,3 +139,6 @@ LUMINA-30 に関連する補助的参照資料であり、
 - 制度的前提条件
 - LUMINA-30
 - 聖域憲章
+
+
+See also: Institutional Friction Toolkit (Reference)
