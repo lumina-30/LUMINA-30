@@ -1,5 +1,7 @@
 # LUMINA-30
 
+Keywords: AI governance, AI accountability, singularity risk, refusal authority, irreversible decision risk, post-incident review, institutional responsibility.
+
 ## Safety Statement
 
 This project does not guarantee or assert any specific outcome.
