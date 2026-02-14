@@ -72,6 +72,13 @@ These documents are published and preserved via Notion as immutable public recor
 
 ---
 
+## Related Structural Toolkit
+
+- Institutional friction and accountability references  
+  https://github.com/gsx750ss-dev/ai-accountability-reference
+
+---
+
 ## License
 
 Released into the public domain (CC0).  
