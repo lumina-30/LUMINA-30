@@ -1,5 +1,12 @@
 # LUMINA-30
 
+This material:
+- is not a recommendation.
+- does not provide safe-harbor or liability protection.
+- does not guarantee safety, legality, or ethical adequacy.
+- does not delegate refusal authority to AI systems.
+
+---
 This repository examines human decision authority, refusal rights, and institutional accountability boundaries in advanced AI systems.
 
 Keywords: AI governance, AI accountability, singularity risk, refusal authority, irreversible decision risk, post-incident review, institutional responsibility.
