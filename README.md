@@ -80,6 +80,9 @@ These documents are published and preserved via Notion as immutable public recor
 - Further modification: **Not permitted**
 
 ---
+Structural map (non-canonical):
+- lumina-30-structure-map
+---
 
 ## Related Structural Toolkit
 
