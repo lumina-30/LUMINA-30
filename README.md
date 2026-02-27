@@ -1,4 +1,6 @@
 # LUMINA-30
+Primary entry point: [Lumi30-Index](https://github.com/gsx750ss-dev/Lumi30-Index)
+
 ## Position within LUMINA-30
 
 This repository exists within the LUMINA-30 civilizational boundary reference structure.
