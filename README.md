@@ -1,5 +1,5 @@
-# LUMINA-30
-Primary entry point: [Lumi30-Index](https://github.com/gsx750ss-dev/Lumi30-Index)
+﻿# LUMINA-30
+Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 ## Position within LUMINA-30
 
@@ -9,7 +9,7 @@ It is non-binding and descriptive.
 It does not mandate action, propose policy, or prescribe implementation.
 
 Hub (structural map):
-https://github.com/gsx750ss-dev/lumina-30-overview
+https://github.com/lumina-30/lumina-30-overview
 ---
 This material:
 - is not a recommendation.
@@ -98,7 +98,7 @@ Structural map (non-canonical):
 ## Related Structural Toolkit
 
 - Institutional friction and accountability references  
-  https://github.com/gsx750ss-dev/ai-accountability-reference
+  https://github.com/lumina-30/ai-accountability-reference
 
 ---
 
@@ -163,3 +163,4 @@ LUMINA-30 に関連する補助的参照資料であり、
 
 
 See also: Institutional Friction Toolkit (Reference)
+
