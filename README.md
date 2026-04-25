@@ -1,15 +1,28 @@
-﻿# LUMINA-30
-Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
+# LUMINA-30
 
 ## Position within LUMINA-30
 
-This repository exists within the LUMINA-30 civilizational boundary reference structure.
+Primary users / 主な対象者: researchers, governance readers, and readers who need the canonical boundary reference.  
+研究者、ガバナンス関係者、中核境界参照を確認する読者向け。
 
-It is non-binding and descriptive.
-It does not mandate action, propose policy, or prescribe implementation.
+Use this repository when you need the canonical LUMINA-30 boundary statement itself.  
+LUMINA-30の中核境界文書そのものを確認する場合に使用。
 
-Hub (structural map):
-https://github.com/lumina-30/lumina-30-overview
+If you are applying LUMINA-30 to an incident, start with the incident-review repository instead.  
+事故レビューに適用する場合は、先に incident-review 側を使用。
+
+- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+  Use this to navigate the full repository network.  
+  repo群全体の導線確認に使用。
+
+- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+  Use this for first-time conceptual orientation and visual structure.  
+  初見時の概念把握と視覚導線に使用。
+
+- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+  Use this when reviewing whether refusal authority remained effective before irreversible impact.  
+  不可逆的影響の前に拒否権が実効性を持っていたかを確認する場合に使用。
+
 ---
 This material:
 - is not a recommendation.
@@ -97,8 +110,9 @@ Structural map (non-canonical):
 
 ## Related Structural Toolkit
 
-- Institutional friction and accountability references  
-  https://github.com/lumina-30/ai-accountability-reference
+- [AI Accountability Reference / 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
+  Use this when you need institutional accountability language, audit wording, or responsibility-continuity references.  
+  制度的な説明責任、監査文言、責任連続性の参照が必要な場合に使用。
 
 ---
 
@@ -163,4 +177,3 @@ LUMINA-30 に関連する補助的参照資料であり、
 
 
 See also: Institutional Friction Toolkit (Reference)
-
