@@ -30,6 +30,15 @@ This material:
 - does not guarantee safety, legality, or ethical adequacy.
 - does not delegate refusal authority to AI systems.
 
+## Boundary Reference Note / 境界参照注記
+
+LUMINA-30 is a non-binding, non-directive civilizational boundary reference.  
+It does not mandate action, propose policy, prescribe implementation, create certification status, or create compliance obligations.
+
+LUMINA-30は、非拘束・非指示型の文明境界参照である。  
+行動を命令せず、政策を提案せず、実装を規定せず、認証状態や適合義務を作らない。
+
+
 ---
 This repository examines human decision authority, refusal rights, and institutional accountability boundaries in advanced AI systems.
 
