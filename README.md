@@ -8,6 +8,14 @@ Primary users / 主な対象者: researchers, governance readers, and readers wh
 Use this repository when you need the canonical LUMINA-30 boundary statement itself.  
 LUMINA-30の中核境界文書そのものを確認する場合に使用。
 
+## 15-Second Definition ｜ 15秒定義
+
+EN:
+LUMINA-30 is a non-binding boundary-check framework asking whether human refusal authority remained effective before irreversible AI impact.
+
+JP:
+LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残っていたかを問う非拘束的な境界判定フレームです。
+
 If you are applying LUMINA-30 to an incident, start with the incident-review repository instead.  
 事故レビューに適用する場合は、先に incident-review 側を使用。
 
@@ -186,3 +194,5 @@ LUMINA-30 に関連する補助的参照資料であり、
 
 
 See also: Institutional Friction Toolkit (Reference)
+
+
