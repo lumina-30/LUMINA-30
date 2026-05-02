@@ -19,15 +19,15 @@ LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残
 If you are applying LUMINA-30 to an incident, start with the incident-review repository instead.  
 事故レビューに適用する場合は、先に incident-review 側を使用。
 
-- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
   Use this to navigate the full repository network.  
   repo群全体の導線確認に使用。
 
-- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)  
   Use this for first-time conceptual orientation and visual structure.  
   初見時の概念把握と視覚導線に使用。
 
-- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
   Use this when reviewing whether refusal authority remained effective before irreversible impact.  
   不可逆的影響の前に拒否権が実効性を持っていたかを確認する場合に使用。
 
@@ -127,7 +127,7 @@ Structural map (non-canonical):
 
 ## Related Structural Toolkit
 
-- [AI Accountability Reference / 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
+- [AI Accountability Reference ｜ 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
   Use this when you need institutional accountability language, audit wording, or responsibility-continuity references.  
   制度的な説明責任、監査文言、責任連続性の参照が必要な場合に使用。
 
