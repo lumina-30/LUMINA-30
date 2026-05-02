@@ -2,7 +2,7 @@
 
 ## Position within LUMINA-30
 
-Primary users / 主な対象者: researchers, governance readers, and readers who need the canonical boundary reference.  
+Primary users ｜ 主な対象者: researchers, governance readers, and readers who need the canonical boundary reference.  
 研究者、ガバナンス関係者、中核境界参照を確認する読者向け。
 
 Use this repository when you need the canonical LUMINA-30 boundary statement itself.  
@@ -38,7 +38,7 @@ This material:
 - does not guarantee safety, legality, or ethical adequacy.
 - does not delegate refusal authority to AI systems.
 
-## Boundary Reference Note / 境界参照注記
+## Boundary Reference Note ｜ 境界参照注記
 
 LUMINA-30 is a non-binding, non-directive civilizational boundary reference.  
 It does not mandate action, propose policy, prescribe implementation, create certification status, or create compliance obligations.
@@ -86,12 +86,12 @@ must remain sovereign.
 All authoritative documents are published as fixed PDF public records with cryptographic hashes.
 
 - **LUMINA-30 Sanctuary Charter (SUP)**
-  - Japanese / English
+  - Japanese ｜ English
   - Fixed ethical boundary definition  
   - Public record (PDF + SHA-256 hash)
 
 - **LUMINA-30 Mathematical Supplement**
-  - Japanese / English
+  - Japanese ｜ English
   - Descriptive reference on structural limits of human control
   - Public record (PDF + SHA-256 hash)
 
@@ -166,7 +166,7 @@ LUMINA-30 に関連する補助的参照資料であり、
 
 ---
 
-## Search Keywords / 検索用キーワード
+## Search Keywords ｜ 検索用キーワード
 
 **English**
 - recursive self-improvement
