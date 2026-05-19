@@ -37,6 +37,7 @@ This material:
 - does not provide safe-harbor or liability protection.
 - does not guarantee safety, legality, or ethical adequacy.
 - does not delegate refusal authority to AI systems.
+- does not claim adoption, endorsement, regulatory status, certification, established consensus, or binding standard status.
 
 ## Boundary Reference Note ｜ 境界参照注記
 
@@ -62,22 +63,22 @@ clarifying review conditions related to judgment, responsibility, and irreversib
 The absence of this material does not itself cause immediate or decisive consequences.
 It constitutes only a part of a broader risk-mitigation structure.
 
-Public reference records and ethical boundary framework for pre-singularity AI governance.
+Public reference records and a boundary reference framework for pre-irreversibility AI governance review.
 
 ---
 
 ## What is LUMINA-30?
 
-LUMINA-30 is a fixed civilizational reference framework that defines ethical boundaries
-which must not be overridden, optimized away, or nullified by artificial intelligence systems,
-especially prior to and during the emergence of recursive self-improvement.
+LUMINA-30 is a non-binding civilizational reference framework that records boundary conditions
+for examining whether human choice and refusal authority remain effective before irreversible AI-related consequences occur,
+especially in contexts involving recursive self-improvement.
 
 This repository does **not** contain implementation code, policy proposals,
 or technical enforcement mechanisms.
 
-It preserves, in language and public record form, the conditions under which
+It preserves, in language and public record form, a review question about whether
 human choice — including irrational decisions and acceptance of loss —
-must remain sovereign.
+remained meaningfully available before irreversible effects occurred.
 
 ---
 
@@ -104,7 +105,7 @@ These documents are published and preserved via Notion as immutable public recor
 **This repository is:**
 - A search-indexed entry point
 - A reference hub linking to fixed public records
-- A civilizational precondition archive
+- A non-binding civilizational boundary reference archive
 
 **This repository is not:**
 - An AI control system
@@ -175,7 +176,7 @@ LUMINA-30 に関連する補助的参照資料であり、
 - human final authority
 - AI ethics
 - AI governance
-- pre-singularity ethics
+- pre-irreversibility ethics
 - institutional preconditions
 - LUMINA-30
 - Sanctuary Charter
