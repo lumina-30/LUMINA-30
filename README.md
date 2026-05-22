@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # LUMINA-30
 
 ## Position within LUMINA-30
@@ -195,5 +196,3 @@ LUMINA-30 に関連する補助的参照資料であり、
 
 
 See also: Institutional Friction Toolkit (Reference)
-
-
